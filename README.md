@@ -1,1 +1,9 @@
-Releases for FasTrak used by the Auto Updater
+Official source of the Magnet Forensics **Fastrak** Application
+
+
+
+
+
+
+
+
